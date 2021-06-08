@@ -1,0 +1,17 @@
+{
+    "name": "zakaulovaaa/geoip-main",
+    "description": "main",
+    "type": "library",
+    "authors": [
+        {
+            "name": "zakaulovaaa",
+            "email": "darya.zakaulova@yandex.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "GeoIp\\": "src/"
+        }
+    },
+    "require": {}
+}
