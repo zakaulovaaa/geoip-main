@@ -1,6 +1,6 @@
 {
     "name": "zakaulovaaa/geoip-main",
-    "description": "main",
+    "description": "extensible library for working with user location. ",
     "type": "library",
     "authors": [
         {
